@@ -5,7 +5,7 @@
 5 <h1>My first PHP page</h1>
 6
 7 <?phn
-8 echo "Halo Walker!";
+8 echo "Halo Walkers!";
 9 ?>
 10
 11 </body>
